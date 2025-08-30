@@ -1,5 +1,5 @@
 <h1> Color Theme Switcher </h1>
-This repository was generate for the intership task 3 in Cortexis Solution Hub
+<p> This repository was generate for the intership task 3 in Cortexis Solution Hub </p><p> This project was built using pure HTML, CSS, and JavaScript without relying on external frameworks to keep it simple, lightweight, and easy to follow. The theme switcher allows users to toggle smoothly between Light and Dark modes, and the layout is fully responsive, ensuring it works across desktop and mobile devices. The project is also deployed live via Vercel for easy preview.</p>
 <h2> Mission: </h2>
 <p> Add interactive "Light" and "Dark" mode buttons to a webpage using 
 JavaScript. </p>
